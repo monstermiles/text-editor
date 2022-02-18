@@ -16,6 +16,8 @@
 
 
       ## Description:
+      We did this assignment together in class, so my code will look very similar to my classmates.
+
       This is a simple text editor progressive web app.  It was made using Webpac, Service Workers, Babel and IndexDB. 
 
       Deployed on heroku: https://miles-text-editor.herokuapp.com/
