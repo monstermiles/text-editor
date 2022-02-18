@@ -18,6 +18,8 @@
       ## Description:
       This is a simple text editor progressive web app.  It was made using Webpac, Service Workers, Babel and IndexDB. 
 
+      Deployed on heroku: https://miles-text-editor.herokuapp.com/
+
       text-editor/img/Screen Shot 2022-02-18 at 11.09.30 AM.png
 
       
